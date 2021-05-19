@@ -1,0 +1,12 @@
+html{
+  background-color: darkslategray;;
+}
+input[type="text"]{
+  background: transparent;
+
+}
+
+input[type="text"]:focus{
+  background: transparent;
+
+}
